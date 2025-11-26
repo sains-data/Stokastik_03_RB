@@ -37,12 +37,14 @@ Penelitian menggunakan beberapa komponen utama DTMC, yaitu:
 Semua perhitungan dilakukan menggunakan data observasi lapangan dan disajikan dalam bentuk tabel, grafik, serta analisis matematis.
 
 ### 📂 Isi Repository
-📁 / (root directory)
-│
-├── README.md                
-├── Poster_3_RB.pdf         
-├── Kelompok 3_PemStok.pdf  
-└── Dataset_3_RB.xlsx       
+- Dataset_3_RB.xlsx  
+- Laporan_3_RB.pdf  
+- README.md  
+- Video_3_RB.mp4  
+- codeR_3_RB.Rmd  
+
+
+      
 
 ### 👥 Tim Peneliti
 
