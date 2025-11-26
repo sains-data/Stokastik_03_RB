@@ -55,5 +55,5 @@ Kelompok 3 – Pemodelan Stokastik:
 
 Dosen Pembimbing:
 
-Mika Alvionita S., M.Si
-Indah Suciati, M.Mat
+- Mika Alvionita S., M.Si
+- Indah Suciati, M.Mat
